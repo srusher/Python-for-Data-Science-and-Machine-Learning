@@ -1,6 +1,12 @@
 # Python-for-Data-Science-and-Machine-Learning
 Repo of notes and projects I worked on through my Python + Machine Learning course
 
+## Environment
+Anaconda version: 2020.11
+
+## Programming Language
+Python version: 3.8.5
+
 ## Packages and Libraries:
 Numpy, pandas, matplotlib, seaborn, sklearn, tensorflow
 
