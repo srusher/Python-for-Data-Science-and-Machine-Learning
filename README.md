@@ -13,3 +13,4 @@ Numpy, pandas, matplotlib, seaborn, sklearn, tensorflow
 ## Notes:
 - File paths mentioned in scripting files must be tailored for your PC if you wish to run the program
 - I have not included the installation scripts/files for the data files or programming packages used
+- The Deep Learning portfolio project was too large of a jupyter notebook file to upload as is - I had to zip it
