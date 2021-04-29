@@ -7,4 +7,3 @@ Numpy, pandas, matplotlib, seaborn, sklearn, tensorflow
 ## Notes:
 - File paths mentioned in scripting files must be tailored for your PC if you wish to run the program
 - I have not included the installation scripts/files for the data files or programming packages used
-- 
